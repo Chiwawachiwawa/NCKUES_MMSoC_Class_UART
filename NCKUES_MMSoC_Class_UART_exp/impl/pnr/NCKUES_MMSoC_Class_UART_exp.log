@@ -1,0 +1,30 @@
+Reading netlist file: "C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\impl\gwsynthesis\NCKUES_MMSoC_Class_UART_exp.vg"
+Parsing netlist file "C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\impl\gwsynthesis\NCKUES_MMSoC_Class_UART_exp.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\src\uart_loopback.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1118) : the clock "sys_clk"'s frequency does not match rpll_27_50_u/rpll_inst's param "FCLKIN = "27""
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\impl\pnr\NCKUES_MMSoC_Class_UART_exp.power.html" completed
+Generate file "C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\impl\pnr\NCKUES_MMSoC_Class_UART_exp.pin.html" completed
+Generate file "C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\impl\pnr\NCKUES_MMSoC_Class_UART_exp.rpt.html" completed
+Generate file "C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\impl\pnr\NCKUES_MMSoC_Class_UART_exp.rpt.txt" completed
+Generate file "C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\impl\pnr\NCKUES_MMSoC_Class_UART_exp.tr.html" completed
+Sat Feb 24 05:32:00 2024
+

@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Users/User/Desktop/GOWIN/NCKUES_MMSoC_Class_UART_exp/src/uart_loopback.v",
+  "InstLine" : 1,
+  "InstName" : "uart_loopback",
+  "ModuleFile" : "C:/Users/User/Desktop/GOWIN/NCKUES_MMSoC_Class_UART_exp/src/uart_loopback.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "uart_loopback",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/User/Desktop/GOWIN/NCKUES_MMSoC_Class_UART_exp/src/uart_loopback.v",
+    "InstLine" : 26,
+    "InstName" : "u_uart_rx",
+    "ModuleFile" : "C:/Users/User/Desktop/GOWIN/NCKUES_MMSoC_Class_UART_exp/src/uart_rx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_rx"
+   },
+   {
+    "InstFile" : "C:/Users/User/Desktop/GOWIN/NCKUES_MMSoC_Class_UART_exp/src/uart_loopback.v",
+    "InstLine" : 38,
+    "InstName" : "u_uart_tx",
+    "ModuleFile" : "C:/Users/User/Desktop/GOWIN/NCKUES_MMSoC_Class_UART_exp/src/uart_tx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_tx"
+   },
+   {
+    "InstFile" : "C:/Users/User/Desktop/GOWIN/NCKUES_MMSoC_Class_UART_exp/src/uart_loopback.v",
+    "InstLine" : 47,
+    "InstName" : "rpll_27_50_u",
+    "ModuleFile" : "C:/Users/User/Desktop/GOWIN/NCKUES_MMSoC_Class_UART_exp/src/gowin_rpll/uart_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "rpll_27_50"
+   }
+  ]
+ }
+]

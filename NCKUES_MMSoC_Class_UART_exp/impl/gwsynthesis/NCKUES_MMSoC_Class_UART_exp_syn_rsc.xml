@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="uart_loopback">
+ <SubModule name="u_uart_rx" Register="34" Lut="49"/>
+ <SubModule name="u_uart_tx" Register="23" Lut="46"/>
+ <SubModule name="rpll_27_50_u"/>
+</Module>

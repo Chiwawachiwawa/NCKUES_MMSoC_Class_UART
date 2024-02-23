@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-18C" package="PBGA256" speed="8" partNumber="GW2A-LV18PG256C8/I7"/>
+    <FileList>
+        <File path="C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\src\gowin_rpll\uart_rpll.v" type="verilog"/>
+        <File path="C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\src\uart_loopback.v" type="verilog"/>
+        <File path="C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\src\uart_rx.v" type="verilog"/>
+        <File path="C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\src\uart_tx.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\User\Desktop\GOWIN\NCKUES_MMSoC_Class_UART_exp\impl\gwsynthesis\NCKUES_MMSoC_Class_UART_exp.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>
